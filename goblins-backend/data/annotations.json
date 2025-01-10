@@ -1,0 +1,61 @@
+[
+  {
+    "id": "wb_b_wb_cmvu1n27qp1fuqq15nk9h",
+    "rectangles": [
+      {
+        "id": 0,
+        "x": 437.5,
+        "y": 198.7421875,
+        "width": 239,
+        "height": 160,
+        "transcription": "N/A",
+        "confidence": "medium"
+      }
+    ],
+    "submittedBy": "adf",
+    "submittedAt": "2025-01-10T11:08:30.866Z"
+  },
+  {
+    "id": "wb_b_wb_cmvu1n27qp1fuqq15nk9h",
+    "rectangles": [
+      {
+        "id": 0,
+        "x": 280.5,
+        "y": 88.7421875,
+        "width": 559,
+        "height": 439,
+        "transcription": "N/A",
+        "confidence": "medium"
+      },
+      {
+        "id": 1,
+        "x": 839.5,
+        "y": 527.7421875,
+        "width": 0,
+        "height": 0,
+        "transcription": "N/A",
+        "confidence": "medium"
+      },
+      {
+        "id": 2,
+        "x": 807.5,
+        "y": 684.7421875,
+        "width": -2,
+        "height": 0,
+        "transcription": "N/A",
+        "confidence": "medium"
+      },
+      {
+        "id": 3,
+        "x": 703.5,
+        "y": 684.7421875,
+        "width": 0,
+        "height": 0,
+        "transcription": "N/A",
+        "confidence": "medium"
+      }
+    ],
+    "submittedBy": "dfds",
+    "submittedAt": "2025-01-10T11:10:12.748Z"
+  }
+]
