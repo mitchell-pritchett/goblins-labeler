@@ -1,8 +1,10 @@
 import axios from "axios";
 
-// Set base URL for the backend API
 const api = axios.create({
-  baseURL: "http://localhost:5001/api",
+  baseURL:
+    process.env.NODE_ENV === "production"
+      ? "https://goblins-labeler.onrender.com/api" // Production backend
+      : "http://localhost:5001/api", // Development backend
 });
 
 // Fetch images
