@@ -57,5 +57,64 @@
     ],
     "submittedBy": "dfds",
     "submittedAt": "2025-01-10T11:10:12.748Z"
+  },
+  {
+    "id": "wb_b_wb_cmvu1n27qp1fuqq15nk9h",
+    "rectangles": [
+      {
+        "id": 0,
+        "x": 239.5,
+        "y": 210.7421875,
+        "width": 433,
+        "height": 420,
+        "transcription": "N/A",
+        "confidence": "medium"
+      }
+    ],
+    "submittedBy": "Kyu",
+    "submittedAt": "2025-01-10T11:26:50.024Z"
+  },
+  {
+    "id": "wb_b_wb_oz74l7wrkd4n3ttl2mryi",
+    "rectangles": [
+      {
+        "id": 0,
+        "x": 236.5,
+        "y": 236.7421875,
+        "width": 0,
+        "height": -1,
+        "transcription": "N/A",
+        "confidence": "medium"
+      },
+      {
+        "id": 1,
+        "x": 722.5,
+        "y": 217.7421875,
+        "width": 2,
+        "height": 0,
+        "transcription": "N/A",
+        "confidence": "medium"
+      },
+      {
+        "id": 2,
+        "x": 252.5,
+        "y": 463.7421875,
+        "width": -2,
+        "height": 0,
+        "transcription": "N/A",
+        "confidence": "medium"
+      },
+      {
+        "id": 3,
+        "x": 671.5,
+        "y": 504.7421875,
+        "width": 2,
+        "height": 0,
+        "transcription": "N/A",
+        "confidence": "medium"
+      }
+    ],
+    "submittedBy": "Kyu",
+    "submittedAt": "2025-01-10T11:27:13.603Z"
   }
 ]
